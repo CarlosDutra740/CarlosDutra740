@@ -1,4 +1,25 @@
 ## Hello World 👋
+# 👋 Hi, I’m Carlos Dutra  
+
+I’m an Electrical Engineer from Brazil, passionate about technology, problem-solving, and building projects that connect ideas to real-world impact.  
+
+## 🔭 What I’m working on  
+- Personal projects to improve my skills in engineering and software development  
+- Building a portfolio of experiments, prototypes, and solutions  
+
+## 🌱 What I’m learning  
+- Software development workflows and GitHub best practices  
+- Expanding knowledge in automation, electronics, and programming  
+- Sharing my work consistently to overcome perfectionism and grow through feedback  
+
+## 💡 Goals  
+- Document and publish projects regularly  
+- Create value through open-source contributions  
+- Connect with professionals and communities to exchange knowledge  
+
+---
+📌 *This GitHub is my lab of ideas — expect experiments, drafts, and projects in progress.*  
+
 
 <img width="266" height="389" alt="download (1)" src="https://github.com/user-attachments/assets/388727a6-f26c-4f1b-aa13-677be4667692" />
 
