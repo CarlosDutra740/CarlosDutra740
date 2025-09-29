@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello World 👋
+<img width="266" height="389" alt="download" src="https://github.com/user-attachments/assets/3d3c21a2-a31f-4abd-8552-e5d4b4f9ce0b" />
+
+
+
 
 <!--
 **CarlosDutra740/CarlosDutra740** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -7,7 +11,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on ...<img width="266" height="389" alt="download" src="https://github.com/user-attachments/assets/de40509a-aa0e-4ea2-9efd-1995bf28a724" />
+
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
