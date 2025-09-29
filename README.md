@@ -1,6 +1,6 @@
 ## Hello World 👋
-<img width="266" height="389" alt="download" src="https://github.com/user-attachments/assets/3d3c21a2-a31f-4abd-8552-e5d4b4f9ce0b" />
 
+<img width="266" height="389" alt="download (1)" src="https://github.com/user-attachments/assets/388727a6-f26c-4f1b-aa13-677be4667692" />
 
 
 
