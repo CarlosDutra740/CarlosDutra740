@@ -4,7 +4,7 @@
 I’m an Electrical Engineer from Brazil, passionate about technology, problem-solving, and building projects that connect ideas to real-world impact.  
 
 ## 🔭 What I’m working on  
-- Personal projects to improve my skills in engineering and software development  
+- Personal projects to improve my skills in critical infrastructures and BIM applied to smart cities
 - Building a portfolio of experiments, prototypes, and solutions  
 
 ## 🌱 What I’m learning  
